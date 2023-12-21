@@ -1,10 +1,10 @@
 [
-  {
-    "op": "add",
-    "path": "/learnBlueprintsOnPickup",
-    "value": [
-      "cookedtentacle",
-      "corntent"
-    ]
-  }
+  [
+    {"op": "test", "path": "/learnBlueprintsOnPickup", "inverse": true},
+    {"op": "add", "path": "/learnBlueprintsOnPickup", "value": []}
+  ],
+  [
+    {"op": "add", "path": "/learnBlueprintsOnPickup/-", "value": "cookedtentacle"},
+    {"op": "add", "path": "/learnBlueprintsOnPickup/-", "value": "corntent"}
+  ]
 ]

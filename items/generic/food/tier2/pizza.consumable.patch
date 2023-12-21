@@ -1,7 +1,7 @@
 [
-  {
-    "op": "add",
-    "path": "/collectablesOnPickup",
-    "value": { "cooking" : "pizza" }
-  }
+  [
+    {"op": "test", "path": "/learnBlueprintsOnPickup", "inverse": true},
+    {"op": "add", "path": "/learnBlueprintsOnPickup", "value": []}
+  ],
+  [{"op": "add", "path": "/learnBlueprintsOnPickup/-", "value": "pizza"}]
 ]
