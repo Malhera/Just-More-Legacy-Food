@@ -1,0 +1,34 @@
+[
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "meatwich"}
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "omelette"}
+  },
+  // apex
+  // avian
+  // floran
+  // glitch
+  // human
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "hamburger"}
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "candyapple"}
+  },
+  // hylotl
+  // novakid
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "burrito"}
+  }
+]

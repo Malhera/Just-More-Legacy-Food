@@ -1,0 +1,36 @@
+[
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "cheeseburger"} 
+    //"can I haz cheeseburger?"
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "meatwich"}
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "meatballs"}
+  },
+  // apex
+  // avian
+  // floran
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "meatandmarrow"}
+  },
+  // glitch
+  // human
+  // hylotl
+  // novakid
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "burrito"} 
+    //"purrito"
+  }
+]

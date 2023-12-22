@@ -1,0 +1,34 @@
+[
+  // apex
+  // avian
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "wartweedstew"}
+  },
+  // floran
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "oculemonstew"}
+  },
+  // glitch
+  // human
+  // hylotl
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "brineapple"}
+  },
+  // novakid
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "volcanicsalsa"}
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "spikycookies"}
+  }
+]
