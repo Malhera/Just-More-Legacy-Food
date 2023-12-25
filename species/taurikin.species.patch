@@ -7,17 +7,7 @@
   {
     "op": "add",
     "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "jelly"}
-  },
-  {
-    "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "cookedtentacle"}
-  },
-  {
-    "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "corntent"}
+    "value": {"item": "cheeseburger"}
   },
   // apex
   // avian
@@ -25,10 +15,20 @@
   {
     "op": "add",
     "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "hotbone"}
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
     "value": {"item": "meatandmarrow"}
-  }
+  },
   // glitch
   // human
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "veggiesoup"}
+  }
   // hylotl
   // novakid
 ]

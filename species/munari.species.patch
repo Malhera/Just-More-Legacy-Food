@@ -1,34 +1,34 @@
 [
-  {
-    "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "meatwich"}
-  },
-  {
-    "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "jelly"}
-  },
-  {
-    "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "cookedtentacle"}
-  },
-  {
-    "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "corntent"}
-  },
   // apex
   // avian
   // floran
+  // glitch
+  // human
   {
     "op": "add",
     "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "meatandmarrow"}
-  }
-  // glitch
-  // human
+    "value": {"item": "veggiesoup"}
+  },
   // hylotl
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "candiedpearlpeas"}
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "coralcreepcurry"}
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "ricecake"}
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "saltsalad"}
+  }
   // novakid
 ]

@@ -40,34 +40,14 @@ All of this has been added (restored) to the procedural system of the game to pr
 - A couple of surprises.
 
 [h1]Compatibility[/h1]
-You probably already have a mod that teaches you the recipe for 'cooked tentacle' when you obtain a 'raw tentacle.' That recipe directly conflicts with another recipe in this mod, which is learned upon obtaining the 'raw tentacle.' In other words, with this mod, you'll learn two recipes involving the 'raw tentacle.' If you already have the mentioned recipe, you might not be able to learn the other due to a conflict in the loading order.
-
-To check if it works well for you, drop a 'raw tentacle' on the ground or purchase one. If you don't learn any new recipe, you have the conflict. If this is the case, you can easily fix it:
-[list]
-[*]Unpack the mod that contains the 'rawtentacle.consumable.patch' file.
-[*]Open it; you should see the code that teaches you the 'Cooked Tentacle' recipe. Delete everything and replace it with this:
-
-[code]
-[
-  {
-    "op": "add",
-    "path": "/learnBlueprintsOnPickup",
-    "value": [
-      "cookedtentacle",
-      "corntent"
-    ]
-  }
-][/code]
-
-[*]This patch modifies the file, allowing you to know both the previous recipe and the new one from this mod.[/list]
-
-PS: There is a better way to patch this problem in my own mod file (with the [b]test[/b] command in the code), but I'm not sure how it's done, if anyone wants to help me with that I'll stop killing fluffy kittens today in your honor.
+Right now, thanks to my colleague 'Vix,' it should be compatible with everything due to the patches they've made. Show them some love (づ￣ 3￣)づ
 
 [h1]Recommended MODs[/h1]
 [url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]
 
 [h1]Credits[/h1]
-- I won't give myself credits because I'm too handsome, I don't need them (☞ﾟヮﾟ)☞
+[list][*]I won't give myself credits because I'm too handsome, I don't need them (☞ﾟヮﾟ)☞
+[*]Vix, just a patching helping paw![/list]
 
 [hr][/hr]
 [url=https://www.buymeacoffee.com/davoker][img]https://media2.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif?cid=ecf05e475hbigh8f6svd016w1t80eojhpcu0t2e58569iq0j&ep=v1_gifs_related&rid=giphy.gif&ct=s[/img][/url]

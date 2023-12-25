@@ -1,4 +1,14 @@
 [
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "meatballs"}
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": {"item": "rootpopflask"}
+  },
   // apex
   // avian
   // floran
@@ -20,15 +30,5 @@
     "op": "add",
     "path": "/defaultBlueprints/tier1/-",
     "value": {"item": "volcanicsalsa"}
-  },
-  {
-    "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "spikycookies"}
-  },
-  {
-    "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
-    "value": {"item": "quichelorraine"}
   }
 ]
